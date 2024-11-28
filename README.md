@@ -1,4 +1,5 @@
 # Find Two Sum
+Finds two numbers in the list that add up to the target value.
 
 ## Usage
 ```
